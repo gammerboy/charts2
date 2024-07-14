@@ -3,11 +3,11 @@
         "healthy": true,
         "supported": false,
         "healthy_error": null,
-        "location": "/__w/charts/charts/community/readarr/1.2.23",
-        "last_update": "2024-07-12 13:38:38",
+        "location": "/__w/charts2/charts2/community/readarr/1.2.23",
+        "last_update": "2024-07-09 06:39:36",
         "required_features": [
-            "normalize/acl",
-            "normalize/ixVolume"
+            "normalize/ixVolume",
+            "normalize/acl"
         ],
         "human_version": "0.3.30.2576_1.2.23",
         "version": "1.2.23",

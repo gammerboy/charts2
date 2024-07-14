@@ -3,12 +3,12 @@
         "healthy": true,
         "supported": false,
         "healthy_error": null,
-        "location": "/__w/charts/charts/community/audiobookshelf/1.0.6",
-        "last_update": "2024-07-12 13:38:38",
+        "location": "/__w/charts2/charts2/community/audiobookshelf/1.0.6",
+        "last_update": "2024-07-08 12:48:14",
         "required_features": [
-            "definitions/timezone",
+            "normalize/ixVolume",
             "normalize/acl",
-            "normalize/ixVolume"
+            "definitions/timezone"
         ],
         "human_version": "2.11.0_1.0.6",
         "version": "1.0.6",

@@ -3,11 +3,11 @@
         "healthy": true,
         "supported": false,
         "healthy_error": null,
-        "location": "/__w/charts/charts/community/lidarr/1.2.27",
-        "last_update": "2024-07-12 13:38:38",
+        "location": "/__w/charts2/charts2/community/lidarr/1.2.27",
+        "last_update": "2024-07-09 06:39:36",
         "required_features": [
-            "normalize/acl",
-            "normalize/ixVolume"
+            "normalize/ixVolume",
+            "normalize/acl"
         ],
         "human_version": "2.4.2.4238_1.2.27",
         "version": "1.2.27",

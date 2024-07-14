@@ -3,12 +3,12 @@
         "healthy": true,
         "supported": false,
         "healthy_error": null,
-        "location": "/__w/charts/charts/charts/elastic-search/1.1.22",
+        "location": "/__w/charts2/charts2/charts/elastic-search/1.1.22",
         "last_update": "2024-07-12 13:40:14",
         "required_features": [
             "definitions/certificate",
-            "normalize/acl",
-            "normalize/ixVolume"
+            "normalize/ixVolume",
+            "normalize/acl"
         ],
         "human_version": "8.14.3_1.1.22",
         "version": "1.1.22",

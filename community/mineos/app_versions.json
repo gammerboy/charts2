@@ -3,8 +3,8 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/__w/charts/charts/community/mineos/1.0.20",
-        "last_update": "2024-07-12 13:38:38",
+        "location": "/__w/charts2/charts2/community/mineos/1.0.20",
+        "last_update": "2024-01-22 14:14:24",
         "required_features": [
             "definitions/certificate",
             "normalize/ixVolume"

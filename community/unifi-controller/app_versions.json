@@ -3,13 +3,13 @@
         "healthy": true,
         "supported": false,
         "healthy_error": null,
-        "location": "/__w/charts/charts/community/unifi-controller/1.3.9",
-        "last_update": "2024-07-12 13:38:38",
+        "location": "/__w/charts2/charts2/community/unifi-controller/1.3.9",
+        "last_update": "2024-06-07 11:48:00",
         "required_features": [
-            "definitions/timezone",
             "definitions/certificate",
+            "normalize/ixVolume",
             "normalize/acl",
-            "normalize/ixVolume"
+            "definitions/timezone"
         ],
         "human_version": "8.2.93_1.3.9",
         "version": "1.3.9",

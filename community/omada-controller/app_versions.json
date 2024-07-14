@@ -3,13 +3,13 @@
         "healthy": true,
         "supported": false,
         "healthy_error": null,
-        "location": "/__w/charts/charts/community/omada-controller/1.2.4",
-        "last_update": "2024-07-12 13:38:38",
+        "location": "/__w/charts2/charts2/community/omada-controller/1.2.4",
+        "last_update": "2024-07-11 06:08:24",
         "required_features": [
-            "definitions/timezone",
             "definitions/certificate",
+            "normalize/ixVolume",
             "normalize/acl",
-            "normalize/ixVolume"
+            "definitions/timezone"
         ],
         "human_version": "5.14_1.2.4",
         "version": "1.2.4",

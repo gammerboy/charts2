@@ -3,12 +3,12 @@
         "healthy": true,
         "supported": false,
         "healthy_error": null,
-        "location": "/__w/charts/charts/community/minecraft/1.2.14",
-        "last_update": "2024-07-12 13:38:38",
+        "location": "/__w/charts2/charts2/community/minecraft/1.2.14",
+        "last_update": "2024-06-25 12:04:05",
         "required_features": [
-            "definitions/timezone",
+            "normalize/ixVolume",
             "normalize/acl",
-            "normalize/ixVolume"
+            "definitions/timezone"
         ],
         "human_version": "2024.6.1_1.2.14",
         "version": "1.2.14",
